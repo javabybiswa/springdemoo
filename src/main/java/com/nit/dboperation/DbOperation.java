@@ -8,7 +8,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 
 @Component
-public class DbOperation {
+public class DbOperation {                  // biswa
 	 
 	
 	@Autowired 
